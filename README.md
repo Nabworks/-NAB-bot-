@@ -29,7 +29,7 @@
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
+- [`1st GC`](https://chat.whatsapp.com/F0kJRQZBd5PAr3B6BRxEy8)
 - 
 
 
@@ -107,4 +107,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 # > THANKS FOR CHOOSING DARK 𓁩NAB🜲bot〠⃟⛐ WE APPRECIATE YOU FOR YOUR SUPPORT
  
-# > ©𓁩NAB🜲works〠⃟⛐
+# ©𓁩NAB🜲works〠⃟⛐
