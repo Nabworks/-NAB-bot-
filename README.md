@@ -1,6 +1,6 @@
 
 
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V7⚜️<br></h1>
+<h1 align="center">𓁩NAB🜲bot〠⃟⛐<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg" alt="animated" width="540" height="280" />
 </p>
@@ -24,7 +24,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/+94774071805"><img src="https://img.shields.io/badge/Contact darktem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+27799191911"><img src="https://img.shields.io/badge/Contact darktem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## ```Bot Support Groups```
@@ -35,7 +35,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARKNERO--V7/fork)
+- FORK THE REPOSITORY [Here](https://github.com/NABworks/DARKNERO--V7/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
