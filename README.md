@@ -2,7 +2,7 @@
 
 <h1 align="center">𓁩NAB🜲bot〠⃟⛐<br></h1>
 <p align="center">
-<img src="https://ibb.co/jV1c2HN" alt="animated" width="540" height="280" />
+<img src="https://i.ibb.co/VHP7Z31/IMG-20230114-WA0345.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
