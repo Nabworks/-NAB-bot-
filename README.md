@@ -35,7 +35,7 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Nabworks/DARKNERO--V7/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Nabworks/-NAB-bot-/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
@@ -47,11 +47,11 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Nabworks/DARKNERO--V7)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Nabworks/-NAB-bot-)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nabworks/DARKNERO--V7/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nabworks/-NAB-bot-/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -62,8 +62,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Nabworks/DARKNERO--V7.git
-cd DARKNERO--V7
+git clone https://github.com/Nabworks/-NAB-bot-.git
+cd -NAB-bot-
 
 npm start
 ```
@@ -79,8 +79,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Nabworks/DARKNERO--V7
-cd CheemsBot-MD
+git clone https://github.com/Nabworks/-NAB-bot-
+cd -NAB-bot-
 npm start
 ```
 ## `For VPS`
@@ -91,8 +91,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Nabworks/DARKNERO--V7
-cd CheemsBot-MD6
+git clone https://github.com/Nabworks/-NAB-bot-
+cd -NAB-bot-
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
@@ -105,6 +105,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 
-# > THANKS FOR CHOOSING DARK 𓁩NAB🜲bot〠⃟⛐ WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING 𓁩NAB🜲bot〠⃟⛐ WE APPRECIATE YOU FOR YOUR SUPPORT
  
 # ©𓁩NAB🜲works〠⃟⛐
