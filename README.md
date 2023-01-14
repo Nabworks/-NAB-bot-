@@ -47,11 +47,11 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kaveeshasithum/DARKNERO--V7)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NABworks/DARKNERO--V7)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaveeshasithum/DARKNERO--V7/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NABworks/DARKNERO--V7/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -62,7 +62,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Kaveeshasithum/DARKNERO--V7.git
+git clone https://github.com/NABworks/DARKNERO--V7.git
 cd DARKNERO--V7
 
 npm start
@@ -79,7 +79,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Kaveeshasithum/DARKNERO--V7
+git clone https://github.com/NABworks/DARKNERO--V7
 cd CheemsBot-MD
 npm start
 ```
@@ -91,7 +91,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Kaveeshasithum/DARKNERO--V7
+git clone https://github.com/NABworks/DARKNERO--V7
 cd CheemsBot-MD6
 npm start
 ```
@@ -105,8 +105,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING DARK 𓁩NAB🜲bot〠⃟⛐ WE APPRECIATE YOU FOR YOUR SUPPORT
  
-# > VIHANGA
-# > NIMESH
-# > THINURA
+# > ©𓁩NAB🜲works〠⃟⛐
