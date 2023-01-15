@@ -1,3 +1,3 @@
 {
-	"name": "Dark Nero Multi Device "
+	"name": "©𓁩NAB🜲bot〠⃟⛐ "
 }
