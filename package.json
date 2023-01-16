@@ -1,5 +1,5 @@
 {
-  "name": "Dark-Nero",
+  "name": "NAB-Bot",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -82,10 +82,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/Kaveeshasithum/DARKNERO--V7.git",
+  "repository": "git+https://github.com/Nabworks/-NAB-bot-.git",
   "bugs": {
-    "url": "https://github.com/Kaveeshasithum/DARKNERO--V7/issues"
+    "url": "https://github.com/Nabworks/-NAB-bot-/issues"
   },
-  "homepage": "https://github.com/Kaveeshasithum/DARKNERO--V7/#readme",
+  "homepage": "https://github.com/Nabworks/-NAB-bot-/#readme",
   "main": "index.js"
 }
